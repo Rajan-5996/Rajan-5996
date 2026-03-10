@@ -37,6 +37,7 @@ const naveen = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="55"/>
   <img src="https://skillicons.dev/icons?i=react" width="55"/>
   <img src="https://skillicons.dev/icons?i=ts" width="55"/>
   <img src="https://skillicons.dev/icons?i=js" width="55"/>
