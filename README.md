@@ -36,29 +36,29 @@ const naveen = {
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" width="55"/>
-  <img src="https://skillicons.dev/icons?i=react" width="55"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="55"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
-  <img src="https://skillicons.dev/icons?i=redux" width="55"/>
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="55"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="55"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-  <img src="https://skillicons.dev/icons?i=express" width="55"/>
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="55"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="55"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=html" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55" style="margin:8px"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="55" style="margin:8px"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=express" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="55" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55" style="margin:8px"/>
 </div>
